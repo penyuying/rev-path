@@ -1,0 +1,52 @@
+{
+  "name": "rev-path",
+  "version": "1.0.0",
+  "description": "Create a revved file path",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/penyuying/rev-path"
+  },
+  "author": {
+    "name": "penyuying",
+    "email": "penyuying@QQ.com",
+    "url": "https://github.com/penyuying/rev-path"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "rev",
+    "revving",
+    "web",
+    "file",
+    "name",
+    "filename",
+    "path",
+    "cache",
+    "caching"
+  ],
+  "dependencies": {
+    "modify-filename": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "0.0.4"
+  },
+  "gitHead": "fc5df89bace86b3c667503ccbcd840867ed5c67b",
+  "bugs": {
+    "url": "https://github.com/penyuying/rev-path/issues"
+  },
+  "maintainers": [
+    {
+      "name": "penyuying",
+      "email": "penyuying@QQ.com"
+    }
+  ],
+  "directories": {}
+}
